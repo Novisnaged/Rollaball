@@ -1,3 +1,3 @@
 # UnityTraining
 
-Learning to develop Hypercasual games with Unity Engine.
+Learning to develop Hypercasual games with the Unity Engine.
